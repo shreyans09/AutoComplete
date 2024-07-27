@@ -352,9 +352,4 @@ b       676     50      0.00016033      0.00011954      0.00000292
 **Question 4.** Briefly explain why `HashListAutocomplete` is much more efficient in terms of the empirical runtime of `topMatches`, but uses more memory than the other `Autocomplete` implementations.
 
 
-## Submitting and Grading 
 
-Push your code to Git. Do this often. Once you have run and tested your completed program locally:
-
-1. Submit your code on gradescope to the autograder.
-2. Submit a PDF to Gradescope in the separate Analysis assignment. Be sure to mark pages for the questions as explained in the [gradescope documentation here](https://help.gradescope.com/article/ccbpppziu9-student-submit-work#submitting_a_pdf).
