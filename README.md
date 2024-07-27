@@ -1,7 +1,3 @@
-# Project 4: Autocomplete
-
-This is the directions document for Project 4 Autocomplete in CompSci 201 at Duke University, Spring 2023. [This document details the workflow](https://coursework.cs.duke.edu/cs-201-spring-23/resources-201/-/blob/main/projectWorkflow.md) for downloading the starter code for the project, updating your code on coursework using Git, and ultimately submitting to Gradescope for autograding.
-
 ## Outline 
 - [Project Introduction](#project-introduction)
 - [Part 1: Run Autocomplete Main](#part-1-run-autocomplete-main)
